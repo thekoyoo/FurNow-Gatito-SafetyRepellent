@@ -17,6 +17,5 @@ Optional Materials (but required/semi-required if you want to complete the build
 
 -Buck/boost converter
 
--Soldering iron (also extra optional)
+-Soldering iron/Breadboard (soldering is optional because this project will hardly ever move)
 
--Breadboard (also also extra optional)
